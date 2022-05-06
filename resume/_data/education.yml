@@ -1,0 +1,20 @@
+- layout: left
+  name:  세명대학교
+  dates: 2018.03 ~ 
+  qualification: 스마트 it학부 
+  quote: >
+    충청북도 제천 
+  description: | # this will include new lines to allow paragraphs
+   
+
+
+- layout: left
+  name: 보라고등학교
+  dates: 20015.03 ~ 2018.02
+  qualification: 이과
+  quote: >
+    용인 소재 고등학교
+  description: | # this will include new lines to allow paragraphs
+
+
+    

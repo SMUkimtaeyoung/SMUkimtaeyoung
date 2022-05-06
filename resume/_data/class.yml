@@ -1,0 +1,42 @@
+
+- layout: left
+  company:  한큐에 자바 Step2
+  qualification: 한큐에 자바
+  quote: >
+    eGov(전자정부) 프레임워크를 이용한 웹페이지 제작 교육
+  description: | # this will include new lines to allow paragraphs
+    - Java 독학에 대한 한계를 느끼고 수강
+    - 매주 과제 진행
+    - 웹페이지 제작에 대한 전반적인 흐름, 기초적인 쿼리를 배움
+    - <mark>eGov Framwork</mark> <mark>JQuery</mark> <mark>MariaDB</mark> <mark>mybatis</mark> <mark>ajax</mark>  사용
+    
+- layout: left
+  company:  한큐에 자바 Step1
+  qualification: 한큐에 자바
+  quote: >
+    Java 기초 교육 
+  description: | # this will include new lines to allow paragraphs
+    - Java 독학에 대한 한계를 느끼고 수강
+    - 자바 기초 문법에 대한 교육
+    - <mark>Java</mark> 사용
+
+- layout: left
+  company:  웹퍼블리셔 - UI/UX 웹디자인(웹표준,html,css)
+  qualification: 그린컴퓨터아카데미
+  quote: >
+   html, css 에 대한 교육 (평일반)
+  description: | # this will include new lines to allow paragraphs
+    - 산업체 복무 중 재직자 교육카드를 발급받아 수강.
+    - <mark>html</mark> <mark>css</mark> 사용
+
+- layout: left
+  company:  응용SW엔지니어링향상과정(C언어) 
+  qualification: 그린컴퓨터아카데미
+  quote: >
+    c언어 기초 문법에 대한 교육
+  description: | # this will include new lines to allow paragraphs
+    - 산업체 복무 중 재직자 교육카드를 발급받아 수강.
+    - <mark>c언어</mark> 사용
+ 
+
+  

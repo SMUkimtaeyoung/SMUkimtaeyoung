@@ -1,0 +1,48 @@
+
+
+# Personal info
+name: 김태영 (Kim Tae Young)
+title: Student
+email: ajfqktlqkfdk@naver.com
+
+# Social links
+github_username: SMUkimtaeyoung
+
+linkedin_username: 김태영
+# youtube_username: taeyoungkim
+# googleplus_username: kjs0618061815
+
+# About Section
+# about_title: About Me
+about_profile_image: images/profile.jpg
+about_content: | # this will include new lines to allow paragraphs
+  나이 : 24 세 (1999년 생) 
+
+  최종 학력 : 대학교재학중 (세명대학교)
+
+  사는 곳 : 경기도 용인시
+
+
+  병역사항 : 전역 (2019.10 ~ 2021.05) - 현역 
+
+  사용 기술 : <mark>Java</mark> <mark>Spring</mark> <mark>JavaScript</mark> <mark>Node</mark>
+
+
+
+
+
+#연락처 : 010 - 4032 - 4830
+
+# Projects Section
+# projects_title: Projects
+
+# Experience Section
+# experience_title: Experience
+
+# Education Section
+# educaton_title: Education
+
+# test Section
+# test_title: test
+
+# More Section
